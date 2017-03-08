@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bonds_short_term: 1.5
+  bonds_mid_term: 1.5
+  bonds_long_term: 1.5
+  stocks_canadian: 1.5
+  stocks_us: 1.5
+  stocks_international: 1.5
+  monitoring_percent: 1
+  very_low_setup: 1.5
+  very_low_annual: 1.5
+  low_setup: 1.5
+  low-annual: 1.5
+  controllable_setup: 1.5
+  controllable_annual: 1.5
+
+two:
+  bonds_short_term: 1.5
+  bonds_mid_term: 1.5
+  bonds_long_term: 1.5
+  stocks_canadian: 1.5
+  stocks_us: 1.5
+  stocks_international: 1.5
+  monitoring_percent: 1
+  very_low_setup: 1.5
+  very_low_annual: 1.5
+  low_setup: 1.5
+  low-annual: 1.5
+  controllable_setup: 1.5
+  controllable_annual: 1.5

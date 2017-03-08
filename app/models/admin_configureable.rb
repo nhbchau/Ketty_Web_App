@@ -1,0 +1,2 @@
+class AdminConfigureable < ApplicationRecord
+end

@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  branch: MyString
+  type_etf: MyString
+  symbol: MyString
+  etf_name: MyString
+  experience: 1.5
+  fees: 1.5
+  liquidity: 1.5
+  size: 1.5
+  performance: 1.5
+  yeild: 1.5
+  price: 1.5
+  average_score: 1.5
+  star_rating: 1
+
+two:
+  branch: MyString
+  type_etf: MyString
+  symbol: MyString
+  etf_name: MyString
+  experience: 1.5
+  fees: 1.5
+  liquidity: 1.5
+  size: 1.5
+  performance: 1.5
+  yeild: 1.5
+  price: 1.5
+  average_score: 1.5
+  star_rating: 1

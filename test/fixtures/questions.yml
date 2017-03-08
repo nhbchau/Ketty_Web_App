@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  age: 1
+  marriage_status: MyString
+  kids: 1
+  income_you_earn: MyString
+  money_invest: 1.5
+  income_from_investment: MyString
+  need_these_funds: MyString
+  need_these_funds: MyString
+  stomch_a_loss: MyString
+  risk_taker: MyString
+  cash: 1.5
+  cash_current: 1.5
+  bonds: 1.5
+  bonds_short_term: 1.5
+  bonds_mid_term: 1.5
+  bonds_long_term: 1.5
+  stocks: 1.5
+  stocks_canadian: 1.5
+  stocks_us: 1.5
+  stocks_international: 1.5
+  risk_score: 1.5
+  target_return: 1.5
+
+two:
+  age: 1
+  marriage_status: MyString
+  kids: 1
+  income_you_earn: MyString
+  money_invest: 1.5
+  income_from_investment: MyString
+  need_these_funds: MyString
+  need_these_funds: MyString
+  stomch_a_loss: MyString
+  risk_taker: MyString
+  cash: 1.5
+  cash_current: 1.5
+  bonds: 1.5
+  bonds_short_term: 1.5
+  bonds_mid_term: 1.5
+  bonds_long_term: 1.5
+  stocks: 1.5
+  stocks_canadian: 1.5
+  stocks_us: 1.5
+  stocks_international: 1.5
+  risk_score: 1.5
+  target_return: 1.5
