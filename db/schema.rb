@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170308215547) do
+ActiveRecord::Schema.define(version: 20170310023551) do
 
   create_table "admin_configureables", force: :cascade do |t|
     t.float    "bonds_short_term"
@@ -80,6 +80,22 @@ ActiveRecord::Schema.define(version: 20170308215547) do
     t.float    "stocks_international"
     t.float    "risk_score"
     t.float    "target_return"
+    t.datetime "created_at",             null: false
+    t.datetime "updated_at",             null: false
+  end
+
+  create_table "users", force: :cascade do |t|
+    t.integer  "question_id"
+    t.string   "email"
+    t.string   "encrypted_password"
+    t.string   "name"
+    t.integer  "role"
+    t.string   "reset_password_token"
+    t.datetime "reset_password_sent_at"
+    t.datetime "remember_created_at"
+    t.integer  "sign_in_count"
+    t.string   "current_sign_in_ip"
+    t.string   "last_sign_in_ip"
     t.datetime "created_at",             null: false
     t.datetime "updated_at",             null: false
   end
